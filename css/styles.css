@@ -1,0 +1,87 @@
+/* Type selectors */
+p {
+  color: hsla(0, 0%, 100%, 0.75);
+  font-size: 15px;
+  font-family: 'Lexend Deca', sans-serif;
+  margin-top: 10%;
+  line-height: 2;
+}
+h1 {
+  color: hsl(0, 0%, 95%);
+  font-family: 'Big Shoulders Display', cursive;
+  margin-top: 10%;
+}
+
+i {
+  padding: 5% 0;
+}
+/* class selectors */
+.btn  {
+  border-radius: 20px;
+  width: 60%;
+  height: 10%;
+margin-top: 30%;
+margin-bottom: 15%;
+}
+
+/* Row properties */
+.row {
+  text-align: left;
+  justify-content: center;
+}
+
+/* sedan column */
+.sedan-col {
+  background-color: hsl(31, 77%, 52%);
+  padding: 3% 3% 4%;
+}
+
+/* suv column */
+.suv-col {
+  background-color: hsl(184, 100%, 22%);
+  padding: 3% 3% 4%;
+}
+/* luxury column */
+.luxury-col {
+  background-color: hsl(179, 100%, 13%);
+  padding: 3% 3% 4%;
+}
+/* buttons */
+.suv-btn {
+  color: hsl(184, 100%, 22%);
+  text-align: center;
+}
+
+.luxury-btn {
+  color: hsl(179, 100%, 13%);
+  text-align: center;
+}
+.sedan-btn {
+  color: hsl(31, 77%, 52%);
+  text-align: center;
+}
+
+/* icons */
+.suv-icon {
+color:  hsla(0, 0%, 100%, 0.75);
+position: relative;
+left: 7%;
+}
+.luxury-icon {
+color: hsla(0, 0%, 100%, 0.75);
+position: relative;
+left: 7%;
+
+}
+.sedan-icon {
+color: hsla(0, 0%, 100%, 0.75);
+position: relative;
+left: 7%;
+
+}
+
+/* container properties */
+
+.container-fluid {
+  margin-top: 5%;
+}
